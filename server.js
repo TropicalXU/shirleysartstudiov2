@@ -5,7 +5,6 @@ const express = require('express');
 const path = require('path');
 const mongoose = require('mongoose');
 const session = require('express-session');
-const flash = require('connect-flash');
 const helmet = require('helmet');
 const bodyParser = require('body-parser');
 const cors = require('cors');
@@ -70,17 +69,17 @@ const sessionConfig = {
 
 app.use(session(sessionConfig));
 
-app.use(helmet());
+// app.use(helmet());
 
 app.use('/api/paintings', paintingRouter);
 app.use('/api/stripe/charge', checkoutRouter);
 
-app.use((req, res, next) => {
-    res.locals.currentUser = req.user;
-res.locals.success = req.flash('success');
-res.locals.error = req.flash('error');
-next();
-});  
+// app.use((req, res, next) => {
+//     res.locals.currentUser = req.user;
+// res.locals.success = req.flash('success');
+// res.locals.error = req.flash('error');
+// next();
+// });  
 
 //DEFINING OUR MAIN ERROR MESSAGING FOR ALL PAGES
 // app.all('*', (req, res, next) => {
