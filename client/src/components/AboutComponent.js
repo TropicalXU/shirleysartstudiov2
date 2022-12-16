@@ -103,6 +103,7 @@ const About = (props) => {
                 <div className='container pt-5'>
                     {/* rendering contact form */}
                     <RenderRequest />
+                    <></>
                 </div>
             </div>
         </>
