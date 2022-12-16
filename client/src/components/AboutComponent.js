@@ -46,14 +46,14 @@ const About = (props) => {
                 </div>
                 <div className='container py-5 my-4'>
                     <div className='row d-flex justify-content-center'>
-                        <div className='col-12 col-md-3 my-2'>
+                        <div className='col-8 col-md-3 my-2'>
                             <img src='/assets/images/shirley.jpg' className='img-painting' width='100%' height='260px' alt='artist' />
                         </div>
-                        <div className='col-12 col-md-3 my-2'>
+                        <div className='col-8 col-md-3 my-2'>
                             <img src='/assets/images/about-bg.jpg' className='img-painting' width='100%' height='260px' alt='painting' />
                         </div>
-                        <div className='col-12 col-md-3 my-2'>
-                            <img src='/assets/images/studio-bg.JPG' className='img-painting' width='100%' height='260px' alt='painting' />
+                        <div className='col-8 col-md-3 my-2'>
+                            <img src='/assets/images/studio-bg.jpg' className='img-painting' width='100%' height='260px' alt='painting' />
                         </div>
                     </div>
                 </div>
