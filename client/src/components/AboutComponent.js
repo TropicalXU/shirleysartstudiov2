@@ -50,10 +50,10 @@ const About = (props) => {
                             <img src='/assets/images/shirley.jpg' className='img-painting' width='100%' height='260px' alt='artist' />
                         </div>
                         <div className='col-8 col-md-3 my-2'>
-                            <img src='/assets/images/about-bg.jpg' className='img-painting' width='100%' height='260px' alt='painting' />
+                            <img src='/assets/images/about-bg.JPG' className='img-painting' width='100%' height='260px' alt='painting' />
                         </div>
                         <div className='col-8 col-md-3 my-2'>
-                            <img src='/assets/images/studio-bg.jpg' className='img-painting' width='100%' height='260px' alt='painting' />
+                            <img src='/assets/images/painting.JPG' className='img-painting' width='100%' height='260px' alt='painting' />
                         </div>
                     </div>
                 </div>
