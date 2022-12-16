@@ -11,7 +11,7 @@ const cors = require('cors');
 
 const MongoDBStore = require('connect-mongo');
 
-const dbUrl = process.env.DB_URL;
+const dbUrl = process.env.MONGO_URI;
 
 mongoose.connect(dbUrl, {
     useNewUrlParser: true,
