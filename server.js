@@ -34,7 +34,7 @@ const app = express();
 //APP MIDDLEWARE
 //TO PARSE THE REQUEST BODY
 app.use(express.urlencoded({extended:true}));
-
+app.use(express.static('client/build'));
 app.use(bodyParser.urlencoded({extended: true}));
 app.use(bodyParser.json());
 app.use(cors());
@@ -73,6 +73,10 @@ app.use(session(sessionConfig));
 
 app.use('/api/paintings', paintingRouter);
 app.use('/api/stripe/charge', checkoutRouter);
+
+app.get('*',(req, res) => {
+    res.sendFile(path.resolve(__dirname, 'client', 'build', 'index.html'));
+})
 
 // app.use((req, res, next) => {
 //     res.locals.currentUser = req.user;
