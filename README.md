@@ -1,7 +1,7 @@
 # Shirleys Art Studio
 
 View the website here:
-https://shirleysartstudio.layerlabs.io
+https://www.shirleysartstudio.com
 </br>
 </br>
 
@@ -36,12 +36,11 @@ Payment and billing information is available for the owner to retrieve using the
 
 ## Website Images
 ***
-<img width="1357" alt="shirleysartstudiov2" src="https://user-images.githubusercontent.com/100976172/208283902-99111fd3-6fbe-4da1-84e3-59b3a327f514.png">
-<img width="750" alt="Screen Shot 2022-12-18 at 1 00 02 AM" src="https://user-images.githubusercontent.com/100976172/208283965-22be9f5b-4db1-43ec-af9c-fa4c7d8f1624.png">
-<img width="749" alt="Screen Shot 2022-12-18 at 1 01 09 AM" src="https://user-images.githubusercontent.com/100976172/208284031-958fe0a8-47da-446a-bdf7-9b8fda53747c.png">
-<img width="749" alt="Screen Shot 2022-12-18 at 1 02 37 AM" src="https://user-images.githubusercontent.com/100976172/208284195-c488120b-384d-449c-8d5c-09f294d306ec.png">
-<img width="750" alt="Screen Shot 2022-12-18 at 1 03 35 AM" src="https://user-images.githubusercontent.com/100976172/208284081-83d3c06c-77d0-4e23-9461-0d4ce0ac25e1.png">
-<img width="331" alt="Screen Shot 2022-12-18 at 1 04 47 AM" src="https://user-images.githubusercontent.com/100976172/208284114-ae3325e0-048f-440d-8909-691a5802d1f9.png">
+
+<img width="1199" alt="Screen Shot 2023-03-01 at 11 03 18 AM" src="https://user-images.githubusercontent.com/100976172/223557146-645ef6d2-6235-44ad-9188-7d5655052033.png">
+<img width="1240" alt="Screen Shot 2023-03-07 at 4 29 54 PM" src="https://user-images.githubusercontent.com/100976172/223557599-fabdb95c-5915-4428-a281-81e1bbe125a3.png">
+<img width="569" alt="Screen Shot 2023-03-07 at 4 31 11 PM" src="https://user-images.githubusercontent.com/100976172/223557627-d178d635-e985-42d8-b61a-39b503afc199.png">
+<img width="1192" alt="Screen Shot 2023-03-07 at 4 32 46 PM" src="https://user-images.githubusercontent.com/100976172/223557890-c3cd373c-70bf-4821-b82e-ba379457a753.png">
 
 
 </br>
