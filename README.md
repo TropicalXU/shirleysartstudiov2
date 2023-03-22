@@ -15,6 +15,7 @@ Shirley's Art Studio is an online gallery website with a built in online store w
 ***
 * REACT
 * CSS
+* Tailwindcss
 * Javascript
 * Bootstrap <!-- https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) -->
 * Mongoose
